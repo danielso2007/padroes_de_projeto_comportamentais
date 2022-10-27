@@ -1,0 +1,44 @@
+package br.com.estruturais.mediator.swing.before;
+
+import java.awt.BorderLayout;
+import javax.swing.JFrame;
+import javax.swing.JLabel;
+import javax.swing.WindowConstants;
+import br.com.estruturais.mediator.swing.before.components.AddButton;
+import br.com.estruturais.mediator.swing.before.components.Label;
+import br.com.estruturais.mediator.swing.before.components.ResetButton;
+import br.com.estruturais.mediator.swing.before.components.State;
+
+public class Client {
+    private AddButton button;
+    private ResetButton reset;
+    private Label label;
+    private State state;
+
+    public Client() {
+        state = new State();
+        label = new Label(state);
+        button = new AddButton(state, label);
+        reset = new ResetButton(state, label, button);
+    }
+
+    public void run() {
+        JFrame frame = new JFrame();
+        frame.setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
+        frame.setLayout(new BorderLayout());
+
+        JLabel title = new JLabel("Counter");
+        frame.add(title, BorderLayout.NORTH);
+
+        frame.add(reset, BorderLayout.WEST);
+        frame.add(button, BorderLayout.CENTER);
+        frame.add(label, BorderLayout.SOUTH);
+
+        frame.setSize(400, 200);
+        frame.setVisible(true);
+    }
+
+    public static void main(String[] args) {
+        new Client().run();
+    }
+}
