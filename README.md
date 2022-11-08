@@ -66,10 +66,22 @@ O Chain of Responsibility é um padrão de projeto comportamental que permite qu
 
 > Evita acoplar o remetente de uma requisição ao seu destinatário ao dar a mais de um obejto a chance de servir a requisição. Compõe os objetos em cascata e passa a requisição pela corrente até que um objeto a sirva.
 
-## Modelo
+## Modelo Chain of Responsability (before) Bills Dispenser
 
 <p align="center">
-  <img src="imgs/.png" alt="">
+  <img src="imgs/Chain_of_Responsibility-Before Bills Dispenser.drawio.png" alt="">
+</p>
+
+## Modelo Chain of Responsability (after) Bills Dispenser
+
+<p align="center">
+  <img src="imgs/Chain_of_Responsibility-After Bills Dispenser.drawio.png" alt="">
+</p>
+
+## Modelo Chain of Responsability Service Process
+
+<p align="center">
+  <img src="imgs/Chain_of_Responsibility-Service Process.drawio.png" alt="">
 </p>
 
 ## Código
