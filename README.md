@@ -111,10 +111,10 @@ O Memento é um padrão de projeto comportamental que permite que você salve e 
 
 > Sem violar o encapsulamento, capturar e externalizar o estado interno de um objeto para que o objeto possa ter esse estado restaurado posteriormente.
 
-## Modelo
+## Modelo Memento Swing
 
 <p align="center">
-  <img src="imgs/.png" alt="">
+  <img src="imgs/Memento.drawio.png" alt="Modelo Memento Swing">
 </p>
 
 ## Código
