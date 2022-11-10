@@ -147,10 +147,22 @@ O Command é um padrão de projeto comportamental que transforma um pedido em um
 
 > Encapsular uma requisição como um objeto, permitindo que clientes parametrizem diferentes requisições, filas ou requisições de log, e suportar operações reversíveis.
 
-## Modelo
+## Modelo Command Alexa (Before)
 
 <p align="center">
-  <img src="imgs/.png" alt="">
+  <img src="imgs/Command-Command Alexa before.drawio.png" alt="Modelo Command Alexa (Before)">
+</p>
+
+## Modelo Command Alexa (After)
+
+<p align="center">
+  <img src="imgs/Command-Command Alexa after.drawio.png" alt="Modelo Command Alexa (After)">
+</p>
+
+## Modelo Command Migrations
+
+<p align="center">
+  <img src="imgs/Command-Command Migrations.drawio.png" alt="Modelo Command Migrations">
 </p>
 
 ## Código

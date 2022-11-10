@@ -1,7 +1,5 @@
 package br.com.estruturais.strategy.person.strategies.transportation;
 
-import br.com.estruturais.strategy.person.strategies.transportation.TransportationStrategy;
-
 public class WalkStrategy implements TransportationStrategy {
 
 	@Override

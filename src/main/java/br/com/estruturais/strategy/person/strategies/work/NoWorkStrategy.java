@@ -1,7 +1,5 @@
 package br.com.estruturais.strategy.person.strategies.work;
 
-import br.com.estruturais.strategy.person.strategies.work.WorkStrategy;
-
 public class NoWorkStrategy implements WorkStrategy {
 
 	@Override
