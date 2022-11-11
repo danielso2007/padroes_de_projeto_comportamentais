@@ -412,10 +412,22 @@ O Mediator é um padrão de projeto comportamental que permite que você reduza 
 
 > Definir um objeto que encapsula como um conjunto de obejtos interagem. Mediator promove acoplamento fraco ao manter objetos que não se referem um ao outro explicitamente, permitindo variar sua interação independentemente.
 
-## Modelo
+## Modelo Mediator swing before
 
 <p align="center">
-  <img src="imgs/.png" alt="">
+  <img src="imgs/Mediator-Mediator swing before.drawio.png" alt="Mediator swing before">
+</p>
+
+## Modelo Mediator Swing After
+
+<p align="center">
+  <img src="imgs/Mediator-Mediator (After) Swing.drawio.png" alt="Mediator Swing After">
+</p>
+
+## Modelo Mediator Chat Room
+
+<p align="center">
+  <img src="imgs/Mediator-Mediator Chat Room.drawio.png" alt="">
 </p>
 
 ## Código
