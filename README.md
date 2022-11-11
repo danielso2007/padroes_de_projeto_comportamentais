@@ -191,10 +191,10 @@ O Iterator é um padrão de projeto comportamental que permite a você percorrer
 
 > Prover uma maneira de acessar os elementos de um obejto agragado squencialmente sem expor sua representação interna.
 
-## Modelo
+## Modelo Iterator TV Channel
 
 <p align="center">
-  <img src="imgs/.png" alt="">
+  <img src="imgs/Iterator.drawio.png" alt="Modelo Iterator TV Channel">
 </p>
 
 ## Código
