@@ -313,10 +313,28 @@ O Strategy é um padrão de projeto comportamental que permite que você defina 
 
 > Definir uma família de algoritmo, encapsular cada um, e fazê-lo intercambiáveis. Strategy permite que algoritmos mudem independentemente entre clientes que os utilizam.
 
-## Modelo
+## Modelo Strategy Calculator (Before)
 
 <p align="center">
-  <img src="imgs/.png" alt="">
+  <img src="imgs/strategy-Strategy Calculator (Before).drawio.png" alt="Strategy Calculator (Before)">
+</p>
+
+## Modelo Strategy Calculator (After)
+
+<p align="center">
+  <img src="imgs/strategy-Strategy Calculator (After).drawio.png" alt="Strategy Calculator (After)">
+</p>
+
+## Modelo Strategy worker
+
+<p align="center">
+  <img src="imgs/strategy-Strategy Worker.drawio.png" alt="Strategy worker">
+</p>
+
+## Modelo Strategy person
+
+<p align="center">
+  <img src="imgs/strategy-Strategy Person.drawio.png" alt="Strategy person">
 </p>
 
 ## Código
