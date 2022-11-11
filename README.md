@@ -365,10 +365,22 @@ O Template Method é um padrão de projeto comportamental que define o esqueleto
 
 > Definir o esuqeleto de um algoritmo dentro de uma operação, deixando alguns passos a serem preenchidos pelas subclasses. Template Method permite que suas subclasses redefinam certos passos de um algoritmo sem mudar sua estrutura.
 
-## Modelo
+## Modelo Template Sales (before)
 
 <p align="center">
-  <img src="imgs/.png" alt="">
+  <img src="imgs/Template Method-Template Sales (before).drawio.png" alt="Template Sales (before)>
+</p>
+
+## Modelo Template Sales (after)
+
+<p align="center">
+  <img src="imgs/Template Method-Template Sales (after).drawio.png" alt="Template Sales (after)">
+</p>
+
+## Modelo Template Persist
+
+<p align="center">
+  <img src="imgs/Template Method-Template Persist.drawio.png" alt="Template Persist">
 </p>
 
 ## Código
