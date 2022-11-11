@@ -86,7 +86,7 @@ O Chain of Responsibility é um padrão de projeto comportamental que permite qu
 
 ## Código
 
-[Ver aqui](https://github.com/danielso2007/padroes_de_projeto_estruturais)
+[Ver aqui](https://github.com/danielso2007/padroes_de_projeto_comportamentais/tree/main/src/main/java/br/com/estruturais/chain)
 
 # Memento
 
@@ -119,7 +119,7 @@ O Memento é um padrão de projeto comportamental que permite que você salve e 
 
 ## Código
 
-[Ver aqui](https://github.com/danielso2007/padroes_de_projeto_estruturais)
+[Ver aqui](https://github.com/danielso2007/padroes_de_projeto_comportamentais/tree/main/src/main/java/br/com/estruturais/memento/swing)
 
 # Command
 
@@ -167,7 +167,7 @@ O Command é um padrão de projeto comportamental que transforma um pedido em um
 
 ## Código
 
-[Ver aqui](https://github.com/danielso2007/padroes_de_projeto_estruturais)
+[Ver aqui](https://github.com/danielso2007/padroes_de_projeto_comportamentais/tree/main/src/main/java/br/com/estruturais/command)
 
 # Iterator
 
@@ -199,7 +199,7 @@ O Iterator é um padrão de projeto comportamental que permite a você percorrer
 
 ## Código
 
-[Ver aqui](https://github.com/danielso2007/padroes_de_projeto_estruturais)
+[Ver aqui](https://github.com/danielso2007/padroes_de_projeto_comportamentais/tree/main/src/main/java/br/com/estruturais/iterator)
 
 # Observer
 
@@ -246,7 +246,7 @@ O Observer é um padrão de projeto comportamental que permite que você defina 
 
 ## Código
 
-[Ver aqui](https://github.com/danielso2007/padroes_de_projeto_estruturais)
+[Ver aqui](https://github.com/danielso2007/padroes_de_projeto_comportamentais/tree/main/src/main/java/br/com/estruturais/observer)
 
 # State
 
@@ -287,7 +287,7 @@ O State é um padrão de projeto comportamental que permite que um objeto altere
 
 ## Código
 
-[Ver aqui](https://github.com/danielso2007/padroes_de_projeto_estruturais)
+[Ver aqui](https://github.com/danielso2007/padroes_de_projeto_comportamentais/tree/main/src/main/java/br/com/estruturais/state)
 
 # Strategy
 
@@ -339,7 +339,7 @@ O Strategy é um padrão de projeto comportamental que permite que você defina 
 
 ## Código
 
-[Ver aqui](https://github.com/danielso2007/padroes_de_projeto_estruturais)
+[Ver aqui](https://github.com/danielso2007/padroes_de_projeto_comportamentais/tree/main/src/main/java/br/com/estruturais/strategy)
 
 # Template Method
 
@@ -385,7 +385,7 @@ O Template Method é um padrão de projeto comportamental que define o esqueleto
 
 ## Código
 
-[Ver aqui](https://github.com/danielso2007/padroes_de_projeto_estruturais)
+[Ver aqui](https://github.com/danielso2007/padroes_de_projeto_comportamentais/tree/main/src/main/java/br/com/estruturais/template)
 
 # Mediator
 
@@ -432,4 +432,4 @@ O Mediator é um padrão de projeto comportamental que permite que você reduza 
 
 ## Código
 
-[Ver aqui](https://github.com/danielso2007/padroes_de_projeto_estruturais)
+[Ver aqui](https://github.com/danielso2007/padroes_de_projeto_comportamentais/tree/main/src/main/java/br/com/estruturais/mediator)
