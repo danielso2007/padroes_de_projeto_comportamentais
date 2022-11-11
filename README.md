@@ -226,10 +226,22 @@ O Observer é um padrão de projeto comportamental que permite que você defina 
 
 > Definir uma dependência um-para-muitos entre objetos para que quando um objeto mudar de estado, todos os seus dependentes sejam notificados e atualizados automaticamente.
 
-## Modelo
+## Modelo Observer Party (before)
 
 <p align="center">
-  <img src="imgs/.png" alt="">
+  <img src="imgs/Observer-Observer Party (before).drawio.png" alt="Observer Party (before)">
+</p>
+
+## Modelo Observer Party (after)
+
+<p align="center">
+  <img src="imgs/Observer-Observer Party (after).drawio.png" alt="Observer Party (after)">
+</p>
+
+## Modelo Observer swing
+
+<p align="center">
+  <img src="imgs/Observer-Observer swing.drawio.png" alt="Observer swing">
 </p>
 
 ## Código
