@@ -273,10 +273,16 @@ O State é um padrão de projeto comportamental que permite que um objeto altere
 
 > Permitir a um objeto alterar o seu comportamento quanto a seu estado interno mudar. O objeto irá aparentar mudar de classe.
 
-## Modelo
+## Modelo State Headphone (Before)
 
 <p align="center">
-  <img src="imgs/.png" alt="">
+  <img src="imgs/State-State Headphone (Before).drawio.png" alt="State Headphone (Before)">
+</p>
+
+## Modelo State Headphone (After)
+
+<p align="center">
+  <img src="imgs/State-State Headphone (After).drawio.png" alt="State Headphone (After)">
 </p>
 
 ## Código
